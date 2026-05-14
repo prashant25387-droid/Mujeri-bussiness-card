@@ -1,0 +1,38 @@
+body{
+    margin:50px;
+    font-style:italic;
+    
+}
+.image{
+    width: 250px;
+
+}
+.v8{
+    margin: 50px auto 50px auto;
+    background: #90c1ef;
+    padding:20px;
+    border-bottom:6px solid #9783e8;
+    display: flex;
+    justify-content: space-around;
+    width: 600px;
+    
+
+    
+}
+.text{
+    text-align: center;
+    width: 250px;
+    
+}
+.btn{
+    width: 100px;
+    font-size: medium;
+    font-weight: bold;
+    padding: 5px 10px;
+    background: rgb(227, 199, 162);
+    font-style: oblique;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+    
